@@ -21,18 +21,5 @@ A fun and powerful code transformation tool that analyzes legacy code, explains 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/zareen1729/code-whisperer-time-machine.git
+   git clone https://github.com/yourusername/code-whisperer-time-machine.git
    cd code-whisperer-time-machine
-
-2. **Install npm**
-   ```bash
-   npm install
-   
-3. **Start development server**
-
-   ```bash
-   npm run dev
-
-4. **View in browser**
-   Visit http://localhost:5173
-
