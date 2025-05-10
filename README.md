@@ -24,15 +24,15 @@ A fun and powerful code transformation tool that analyzes legacy code, explains 
    git clone https://github.com/zareen1729/code-whisperer-time-machine.git
    cd code-whisperer-time-machine
 
-2. **Install npm
+2. **Install npm**
    ```bash
    npm install
    
-3. **Start development server
+3. **Start development server**
 
    ```bash
    npm run dev
 
-4. **View in browser
+4. **View in browser**
    Visit http://localhost:5173
 
